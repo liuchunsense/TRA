@@ -1,7 +1,7 @@
 # TRA
 ## What is TRA?
 
-TRA is a large dataset for vision based traffic risk assessment. TRA contains 468 videos with traffic risk level annotations, which are captured by a variety of driving recorders and on-board cameras. 
+TRA is a large dataset for vision based traffic risk assessment. TRA contains 2000 videos with traffic risk level annotations, which are captured by a variety of driving recorders and on-board cameras. 
 
 ## How to get access to TRA?
 
